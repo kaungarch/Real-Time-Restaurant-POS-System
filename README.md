@@ -12,6 +12,10 @@ A real-time Point of Sale (POS) system designed for restaurant environments. Thi
 - **Order Management**: Staff can view and update order statuses in real-time.
 - **No Billing**: The system focuses on order management without handling payment processing or billing.
 
+## Notice
+
+- At first, the user has to add a manager to the database manually.
+
 ## Tech Stack
 
 - **Backend**: Spring Boot
